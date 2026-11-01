@@ -43,6 +43,8 @@ Ensure that you use the correct compiler. If the user is unsure what the correct
 
 If the user doesn't have the compiler installed, instruct them to look on Internet Archive. For console games, inform the user that it's likely the compiler came bundled with the SDK.
 
+Before beginning matching lanes, identify any tooling that would dramatically improve matching time and efficiency. After every 3 lanes, check again to see if there is any tooling that should be built for efficiency. Prefer to use C for tooling as much as possible. Avoid Python for tooling as much as possible.
+
 ## Slots and branches
 
 - **Worktrees:** each worker gets its own git worktree with its own `build/` directory. Reuse a small fixed set of
