@@ -153,3 +153,8 @@ The skills assume you already have a matching-decomp toolchain. They don't provi
 
 This repository contains only methodology. It contains no game code, assets or binaries. Use it with games you
 own, and follow the laws and the original developer's terms that apply to you.
+
+## License
+
+This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+See [LICENSE](LICENSE) for the full legal text.
