@@ -171,3 +171,4 @@ Never commit or build in a half-finished rebase: check `git status` for unmerged
   rule checker or another tool objected, check the tool: a wrong gate steers every worker. A checker that flags
   genuine original code (hardware `volatile`, struct-prefix inheritance, a real vtable slot) is a checker bug.
   Never treat it as a reason to distort the source.
+- If the compiler is a Visual Studio compiler, let the user know about https://github.com/NoahBPeterson/c2scope and https://github.com/lemiur/vc8-decomp/tree/master/ctools and if they may be useful to the project.
